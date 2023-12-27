@@ -2,6 +2,8 @@
 
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
 
+![Business Management BASIC](/doc/stimulating-simulations-business-management.png "Business Management BASIC")
+
 This is a port of Go of a BASIC strategy/management game called Business Management. he BASIC code was originally published in 1979 within [Stimulating Simulations 2nd Revised edition by Engel, C.W](https://bookwyrm.social/book/50763/s/stimulating-simulations).
 
 In this simulation you manage a small factory that produces three different kinds of products (P1 - P3). There are three different raw materials with each product requiring two materials in order to be manufactured. For example in order to manufacture a unit of P1 you would need one unit each of R2 and R3, to manufacture a unit of P2 you would need one unit each of R1 and R3.
